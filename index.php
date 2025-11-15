@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title> https://github.com/arafet-dotcom/blogweb-app </title>
+    <title> arafet-dotcom </title>
 </head>
 <body>
     <img src='storage/my-excellent-blog.png'>
